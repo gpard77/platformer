@@ -3,7 +3,23 @@ guid: d4127f1f2ee516449894370a6f5d6ddb
 labels:
 - Character
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: p1_spritesheet_0
+    21300002: p1_spritesheet_1
+    21300004: p1_spritesheet_2
+    21300006: p1_spritesheet_3
+    21300008: p1_spritesheet_4
+    21300010: p1_spritesheet_5
+    21300012: p1_spritesheet_6
+    21300014: p1_spritesheet_7
+    21300016: p1_spritesheet_8
+    21300018: p1_spritesheet_9
+    21300020: p1_spritesheet_10
+    21300022: p1_spritesheet_11
+    21300024: p1_spritesheet_12
+    21300026: p1_spritesheet_13
+    21300028: p1_spritesheet_14
+    21300030: p1_spritesheet_15
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0

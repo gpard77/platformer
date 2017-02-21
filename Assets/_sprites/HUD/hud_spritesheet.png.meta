@@ -1,7 +1,40 @@
 fileFormatVersion: 2
 guid: e6e423a471962bc459ea0c418ec24036
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: hud_spritesheet_0
+    21300002: hud_spritesheet_1
+    21300004: hud_spritesheet_2
+    21300006: hud_spritesheet_3
+    21300008: hud_spritesheet_4
+    21300010: hud_spritesheet_5
+    21300012: hud_spritesheet_6
+    21300014: hud_spritesheet_7
+    21300016: hud_spritesheet_8
+    21300018: hud_spritesheet_9
+    21300020: hud_spritesheet_10
+    21300022: hud_spritesheet_11
+    21300024: hud_spritesheet_12
+    21300026: hud_spritesheet_13
+    21300028: hud_spritesheet_14
+    21300030: hud_spritesheet_15
+    21300032: hud_spritesheet_16
+    21300034: hud_spritesheet_17
+    21300036: hud_spritesheet_18
+    21300038: hud_spritesheet_19
+    21300040: hud_spritesheet_20
+    21300042: hud_spritesheet_21
+    21300044: hud_spritesheet_22
+    21300046: hud_spritesheet_23
+    21300048: hud_spritesheet_24
+    21300050: hud_spritesheet_25
+    21300052: hud_spritesheet_26
+    21300054: hud_spritesheet_27
+    21300056: hud_spritesheet_28
+    21300058: hud_spritesheet_29
+    21300060: hud_spritesheet_30
+    21300062: hud_spritesheet_31
+    21300064: hud_spritesheet_32
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0

@@ -1,7 +1,66 @@
 fileFormatVersion: 2
 guid: 33c775a2102432445b2ef0bb933cbfc8
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: items_spritesheet_0
+    21300002: items_spritesheet_1
+    21300004: items_spritesheet_2
+    21300006: items_spritesheet_3
+    21300008: items_spritesheet_4
+    21300010: items_spritesheet_5
+    21300012: items_spritesheet_6
+    21300014: items_spritesheet_7
+    21300016: items_spritesheet_8
+    21300018: items_spritesheet_9
+    21300020: items_spritesheet_10
+    21300022: items_spritesheet_11
+    21300024: items_spritesheet_12
+    21300026: items_spritesheet_13
+    21300028: items_spritesheet_14
+    21300030: items_spritesheet_15
+    21300032: items_spritesheet_16
+    21300034: items_spritesheet_17
+    21300036: items_spritesheet_18
+    21300038: items_spritesheet_19
+    21300040: items_spritesheet_20
+    21300042: items_spritesheet_21
+    21300044: items_spritesheet_22
+    21300046: items_spritesheet_23
+    21300048: items_spritesheet_24
+    21300050: items_spritesheet_25
+    21300052: items_spritesheet_26
+    21300054: items_spritesheet_27
+    21300056: items_spritesheet_28
+    21300058: items_spritesheet_29
+    21300060: items_spritesheet_30
+    21300062: items_spritesheet_31
+    21300064: items_spritesheet_32
+    21300066: items_spritesheet_33
+    21300068: items_spritesheet_34
+    21300070: items_spritesheet_35
+    21300072: items_spritesheet_36
+    21300074: items_spritesheet_37
+    21300076: items_spritesheet_38
+    21300078: items_spritesheet_39
+    21300080: items_spritesheet_40
+    21300082: items_spritesheet_41
+    21300084: items_spritesheet_42
+    21300086: items_spritesheet_43
+    21300088: items_spritesheet_44
+    21300090: items_spritesheet_45
+    21300092: items_spritesheet_46
+    21300094: items_spritesheet_47
+    21300096: items_spritesheet_48
+    21300098: items_spritesheet_49
+    21300100: items_spritesheet_50
+    21300102: items_spritesheet_51
+    21300104: items_spritesheet_52
+    21300106: items_spritesheet_53
+    21300108: items_spritesheet_54
+    21300110: items_spritesheet_55
+    21300112: items_spritesheet_56
+    21300114: items_spritesheet_57
+    21300116: items_spritesheet_58
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0

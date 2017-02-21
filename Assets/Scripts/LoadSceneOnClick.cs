@@ -3,10 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class LoadSceneOnClick : MonoBehaviour {
-    public void LoadByIndex(int sceneIndex)
+
+    public string levelToLoad;
+
+    public void LoadByIndex(string level)
     {
         PlayerPrefs.DeleteAll();
-        SceneManager.LoadScene(sceneIndex);
+        Debug.Log("Called from LoadSceneOnClick");
+        SceneManager.LoadScene(levelToLoad);
     }
 }

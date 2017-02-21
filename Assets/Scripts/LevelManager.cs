@@ -87,6 +87,11 @@ public class LevelManager : MonoBehaviour {
         coinText.text = "Coins: " + coinCount;
     }
 
+    public int getCoinCount()
+    {
+        return coinCount;
+    }
+
     public void AddKey(int keyToAdd)
     {
         keyCount += keyToAdd;
